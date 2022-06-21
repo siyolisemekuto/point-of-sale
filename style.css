@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+input, textarea, select{
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+img{
+    width: 24vw;
+}
+
+#title{
+    display: block;
+}
